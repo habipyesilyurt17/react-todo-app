@@ -1,0 +1,57 @@
+{
+  "Navigation" : {
+    "todo_app" : "ToDo App",
+    "login" : "Log In",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "langs" : {
+    "tr" : "Turkish",
+    "en" : "English"
+  },
+  "form-user" : {
+    "name" : "First Name",
+    "surname" : "Last Name",
+    "username" : "Username",
+    "password" : "Password"
+  },
+  "validation-message" : {
+    "required_name" : "Please input your first name!",
+    "required_surname" : "Please input your last name!",
+    "required_username" : "Please input your username!",
+    "required_password" : "Please input your password!"
+  },  
+  "buttons" : {
+    "add" : "Add",
+    "save" : "Save",
+    "logedIn" : "Login",
+    "addTodo" : "Add New Todo"
+  },
+  "actions" : {
+    "edit" : "Edit",
+    "delete" : "Delete",
+    "completed" : "Completed"
+  },
+  "todo-form-title" : {
+    "add_todo" :"Add Todo",
+    "update_todo" : "Update Todo"
+  },
+  "notification" : {
+    "success" : "Success",
+    "fail" :"Error",
+    "success-desc" :"Login successful",
+    "fail-desc" :"login failed",
+    "record-success": "Registration successfully added",
+    "record-fail" : "Username is used. Registration failed"
+  },
+  "placeholder" : {
+    "add-todo" : "Add Todo",
+    "add-due-date" : "Add due date"
+  },
+  "message-val" : {
+    "name" : "Please input your name!",
+    "surname" : "Please input your surname!",
+    "username" : "Please input your username!",
+    "password" : "Please input your password!"
+  }
+}

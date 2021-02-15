@@ -1,0 +1,58 @@
+{
+  "Navigation" : {
+    "todo_app" : "ToDo Uygulaması",
+    "login" : "Giriş",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap"
+  },
+  "langs" : {
+    "tr" : "Türkçe",
+    "en" : "İngilizce"
+  },
+  "form-user" : {
+    "name" : "Adı",
+    "surname" : "Soyadı",
+    "username" : "Kullanıcı Adı",
+    "password" : "Şifre"
+  },
+  "validation-message" : {
+    "required_name" : "Lütfen adınızı giriniz!",
+    "required_surname" : "Lütfen soyadınızı giriniz!",
+    "required_username" : "Lütfen kullanıcı adınızı giriniz!",
+    "required_password" : "Lütfen şifrenizi girin!"
+  },
+  "buttons" : {
+    "add" : "Ekle",
+    "save" : "Kaydet",
+    "logedIn" : "Giriş Yap",
+    "addTodo" : "Yeni Todo Ekle"
+  },
+  "actions" : {
+    "edit" : "Güncelle",
+    "delete" : "Sil",
+    "completed" : "Tamamla"
+  },
+  "todo-form-title" : {
+    "add_todo" :"Todo Ekle",
+    "update_todo" : "Todo Güncelle"
+  },
+  "notification" : {
+    "success" : "Başarılı",
+    "fail" :"Başarısız",
+    "success-desc" :"Giriş başarılı",
+    "fail-desc" :"Giriş başarısız",
+    "record-success" : "Kayıt başarılı bir şekilde eklendi",
+    "record-fail" :"Kullanıcı adı kullanılmaktadır. Kayıt başarısız"
+  },
+  "placeholder" : {
+    "add-todo" : "Todo Ekle",
+    "add-due-date" : "Bitiş Tarihi Ekle"
+  },
+  "message-val" : {
+    "name": "Lütfen adınızı girin!",
+    "surname": "Lütfen soyadınızı giriniz!",
+    "username": "Lütfen kullanıcı adınızı girin!",
+    "password": "Lütfen şifrenizi girin!"
+  }
+
+}
